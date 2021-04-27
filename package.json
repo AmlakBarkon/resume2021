@@ -1,0 +1,22 @@
+{
+  "name": "resume2021",
+  "version": "1.0.0",
+  "description": "Resume",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "your-command-here": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmlakBarkon/resume2021.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AmlakBarkon/resume2021/issues"
+  },
+  "homepage": "https://github.com/AmlakBarkon/resume2021#readme"
+}
